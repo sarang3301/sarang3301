@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sarang%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc  Software%20Engineer%20%7C%20Python%2C%20FastAPI%2C%20Node.js%2C%20TypeScript%20%7C%20LLMs%20%C2%B7%20RAG%20%C2%B7%20LangChain%20%7C%20Data%20Engineering%20%28Airflow%29&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sarang%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Python%2C%20FastAPI%2C%20Node.js%2C%20TypeScript%20%7C%20LLMs%20%C2%B7%20RAG%20%C2%B7%20LangChain%20%7C%20Data%20Engineering%20%28Airflow%29&descAlignY=62&descSize=16" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Software+Engineer+%7C+Python%2C+FastAPI%2C+Node.js%2C+TypeScript;LLMs+%C2%B7+RAG+%C2%B7+LangChain+%C2%B7+Agentic+AI;Data+Engineering+%28Apache+Airflow%29;MCA+%28AI%2FML%2FDS%29+2026" alt="Typing SVG" />
 
